@@ -1,11 +1,10 @@
 /*
 Leap Year
 
-*/
 class Solution {
 public:
-	bool leapyear(int year) {
-		// Your code goes here
+    bool leapyear(int year) {
+        // Your code goes here
         if(year%400 ==0){
         return true;
         }
@@ -13,5 +12,27 @@ public:
             return true;
         }
         else return false;
-	}
+    }
 };
+*/
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+
+    int year;
+    cin >> year;
+
+    if (year % 400 == 0)
+    {
+        cout << "true";
+    }
+    else if (year % 4 == 0 && year % 100 != 0)
+    {
+        cout << "true";
+    }
+    else
+        cout << "false";
+    return 0;
+}
