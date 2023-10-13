@@ -14,6 +14,7 @@ public:
                 first = second;
                 second = next; 
 
+
             }  
             fibonacci[i] = next;
         } 
