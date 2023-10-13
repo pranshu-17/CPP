@@ -12,8 +12,9 @@ public:
             } else {
                 next = first + second;
                 first = second;
-                second = next;
-            } 
+                second = next; 
+                
+            }  
             fibonacci[i] = next;
         }
         return fibonacci;
