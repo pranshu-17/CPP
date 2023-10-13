@@ -13,7 +13,7 @@ public:
                 next = first + second;
                 first = second;
                 second = next;
-            }
+            } 
             fibonacci[i] = next;
         }
         return fibonacci;
