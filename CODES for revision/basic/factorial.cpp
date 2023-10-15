@@ -7,5 +7,5 @@ public:
             return 1;
         }
         return fact * factorial(fact - 1);
-        	} 
+        	}  
 };
