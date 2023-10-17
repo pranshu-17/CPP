@@ -8,5 +8,5 @@ public:
         } 
         return fact * factorial(fact - 1); 
         	}   
-};   
+};    
         
