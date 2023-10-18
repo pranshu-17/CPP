@@ -1,7 +1,7 @@
 /*
 Leap Year
 
-class Solution {
+class Solution { 
 public:
     bool leapyear(int year) {
         // Your code goes here
