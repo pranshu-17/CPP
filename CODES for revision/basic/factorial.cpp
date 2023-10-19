@@ -1,4 +1,4 @@
-//Factorial
+ //Factorial
 class Solution {
 public: 
 	long factorial(int fact) {
