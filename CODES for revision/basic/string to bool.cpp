@@ -1,5 +1,5 @@
 #include <string.h>
-class Solution {
+class Solution { 
 private:
 	 std::string BOOLEAN_TRUE = "true";
 public:
