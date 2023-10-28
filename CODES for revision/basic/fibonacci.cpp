@@ -6,7 +6,7 @@ public:
 	vector<int> fibonacci(int n) {
 		vector<int> fibonacci(n);
         int first = 0, second = 1, next;
-        for (int i = 0; i < n; i++) {  
+        for (int i = 0; i < n; i++) {   
             if (i <= 1) 
             {
             next = i;
