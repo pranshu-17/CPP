@@ -12,7 +12,7 @@ public:
             next = i; 
             } else {
                 next = first + second;
-                first = second;  
+                first = second;
                 second = next; 
 
  
