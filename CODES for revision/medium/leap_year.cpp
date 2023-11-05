@@ -2,7 +2,7 @@
 Leap Year
  
 class Solution {  
-public:
+public: 
     bool leapyear(int year) {
         // Your code goes here
         if(year%400 ==0){    
