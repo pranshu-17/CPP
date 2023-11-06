@@ -2,7 +2,7 @@
 Leap Year  
    
 public: 
-    bool leapyear(int year) { 
+    bool leapyear(int year) {  
         // Your code goes here 
         if(year%400 ==0){    
         return true; 
