@@ -1,8 +1,7 @@
 /* 
 Leap Year  
    
-public: 
-    bool leapyear(int year) {  
+public:
         // Your code goes here 
         if(year%400 ==0){    
         return true; 
