@@ -1,6 +1,6 @@
   //Factorial
 class Solution {
-public: 
+public:  
 	long factorial(int fact) {
 		// Your code goes here 
         if (fact <= 1) {  
