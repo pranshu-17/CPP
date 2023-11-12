@@ -10,7 +10,7 @@ public:
             if (i <= 1)
             {   
             next = i; 
-            } else {
+            } else { 
                 next = first + second;
                 first = second;
                 second = next; 
