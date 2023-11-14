@@ -11,7 +11,7 @@ public:
             {   
             next = i; 
             } else { 
-                next = first + second;
+                next = first + second; 
                 first = second;
                 second = next;  
   
