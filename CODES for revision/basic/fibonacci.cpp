@@ -18,7 +18,7 @@ public:
  
             }  
             fibonacci[i] = next;
-        } 
+        }  
         return fibonacci;
 	}
 };
