@@ -1,6 +1,5 @@
 /*  
 Leap Year  
-      
 public:
         // Your code goes here 
         if(year%400 ==0){
