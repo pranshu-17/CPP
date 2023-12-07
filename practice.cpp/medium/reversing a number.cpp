@@ -2,7 +2,7 @@
 using namespace std;
 
 int main()
-{
+{ 
     int num, digit;
     int rev = 0;
     cin >> num; 
