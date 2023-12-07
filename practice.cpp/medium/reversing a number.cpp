@@ -2,10 +2,10 @@
 using namespace std;
 
 int main()
-{ 
+{
     int num, digit;
     int rev = 0;
-    cin >> num; 
+    cin >> num;
     while (num != 0)
     {
         digit = num % 10;
