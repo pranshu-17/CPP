@@ -13,6 +13,6 @@ int main()
         num /= 10;
     }
     cout << rev;
-
+ 
     return 0;
 }
