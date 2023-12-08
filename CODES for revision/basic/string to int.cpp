@@ -1,5 +1,5 @@
 class Solution {
-public:
+public: 
 	int stringToInt(string str) {
 		return std::stoi(str);
 	} 
