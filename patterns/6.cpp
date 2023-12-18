@@ -10,7 +10,6 @@ int main()
             cout << j;
         }
         cout << "\n"; 
-    } 
- 
+    }
     return 0; 
 }
