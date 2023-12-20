@@ -10,7 +10,8 @@ int main()
         {
             cout << "* ";
         }
-        cout << "\n"; 
-    } 
-    return 0; 
+        cout << "\n";
+    }
+    
+    return 0;
 }
