@@ -10,7 +10,7 @@ int main()
             cout << i << " "; 
         }  
         cout << "\n"; 
-    }
+    } 
 
     return 0;
 }
