@@ -14,7 +14,7 @@ int main()
         for (int k = 0; k < space; k++) 
         { 
             cout << " ";   
-        } 
+        }  
         for (int l = i; l >= 1; l--)
         {
             cout << l;
