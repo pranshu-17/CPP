@@ -11,12 +11,12 @@ int main()
             cout << " ";
         } 
         for (int k = 1; k <= 2 * i - 1; k++)
-        {
+        { 
             cout << "*"; 
         }
 
-        cout << "\n";
-    }
+        cout << "\n"; 
+    } 
     int i, j, k;
     for (i = 1; i <= 5; i++)
     {
