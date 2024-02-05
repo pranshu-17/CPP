@@ -9,7 +9,7 @@ int main()
         {
             cout << j << " ";  
         }
-        cout << "\n";   
+        cout << "\n";    
     } 
     return 0;   
 }  
