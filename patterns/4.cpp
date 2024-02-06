@@ -12,5 +12,5 @@ int main()
         cout << "\n";
     }    
       
-    return 0; s
+    return 0; s 
 }     
