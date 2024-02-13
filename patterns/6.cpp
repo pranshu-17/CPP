@@ -7,9 +7,9 @@ int main()
     { 
         for (int j = 1; j <= 6 -  i; j++)
         { 
-            cout << j;
-        }
-        cout << "\n"; 
+            cout << j; 
+        } 
+        cout << "\n";  
     } 
     return 0;  
 }  
