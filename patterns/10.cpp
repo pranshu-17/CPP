@@ -10,7 +10,7 @@ int main()
         int stars = i;  
         if (i > n) 
         {  
-            stars = 2 * n  - i;
+            stars = 2 * n  - i; 
         } 
 
         for (int j = 0; j < stars; j++) 
@@ -19,7 +19,7 @@ int main()
         }  
 
         cout << "\n";  
-    }
+    } 
  
     return 0;
 }
