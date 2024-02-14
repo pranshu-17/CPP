@@ -9,7 +9,7 @@ int main()
     {
         int stars = i;  
         if (i > n) 
-        {  
+        {
             stars = 2 * n  - i; 
         } 
 
