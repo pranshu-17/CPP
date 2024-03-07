@@ -13,7 +13,7 @@ int main()
         for (k = 1; k <= 10 - 2 * i + 1; k++) // 2n-(2i+1)  formula ! 
         {
             cout << "*";
-        } 
+        }  
         cout << "\n";
     }
 
