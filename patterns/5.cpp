@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
- 
+  
 int main()   
 { 
     for (int i = 0; i < 5; i++)  
@@ -9,7 +9,7 @@ int main()
         { 
             cout << "* ";
         }   
-        cout << "\n";    
+        cout << "\n";     
   
     return 0;  
 }       
