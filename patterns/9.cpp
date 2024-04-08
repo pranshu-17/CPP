@@ -15,7 +15,7 @@ int main()
             cout << "*";    
         }      
   
-        cout << "\n"; 
+        cout << "\n";  
     }    
     int i, j, k; s  
     for (i = 1; i <= 5; i++) 
