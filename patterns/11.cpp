@@ -17,7 +17,7 @@ int main()
                 digit = 0; 
             cout << digit; 
         } 
-        cout << "\n";   
+        cout << "\n";     
     }
 
     return 0; 
