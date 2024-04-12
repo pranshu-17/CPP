@@ -12,7 +12,7 @@ int main()
             if ((i + j) % 2 != 0)  
             {  
                 digit = 1;
-            } 
+            }  
             else
                 digit = 0; 
             cout << digit; 
