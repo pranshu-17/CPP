@@ -8,7 +8,7 @@ int main()
     {
         for (int j = 0; j < i; j++)   
         {
-            int digit;
+            int digit; 
             if ((i + j) % 2 != 0)  
             {  
                 digit = 1;
