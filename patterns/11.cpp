@@ -13,7 +13,7 @@ int main()
             {  
                 digit = 1;
             }  
-            else
+            else 
                 digit = 0; 
             cout << digit; 
         } 
