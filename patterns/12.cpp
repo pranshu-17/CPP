@@ -13,7 +13,7 @@ int main()
         }  
         for (int k = 0; k < space; k++) 
         { 
-            cout << " ";   
+            cout << " ";    
         }    
         for (int l = i; l >= 1; l--)
         {
