@@ -9,14 +9,14 @@ int main()
     {   
         for (int j = 1; j <= i; j++)
         {
-            cout << j;  
+            cout << j;   
         }  
         for (int k = 0; k < space; k++)  
         { 
             cout << " ";    
         }    
         for (int l = i; l >= 1; l--)
-        {
+        { 
             cout << l;
         }
 
