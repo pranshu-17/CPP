@@ -14,7 +14,7 @@ int main()
                 digit = 1;
             }  
             else 
-                digit = 0; 
+                digit = 0;  
             cout << digit; 
         } 
         cout << "\n";     
