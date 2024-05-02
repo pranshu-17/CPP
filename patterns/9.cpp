@@ -8,12 +8,12 @@ int main()
     {      
         for (int j = 1; j <= 5 - i; j++)    
         {     
-            cout << " ";  
+            cout << " ";   
         }    
         for (int k = 1; k <= 2 * i - 1; k++)  
         {    
             cout << "*";    
-        }      
+        }       
   
         cout << "\n";  
     }    
