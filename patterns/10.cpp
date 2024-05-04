@@ -13,7 +13,7 @@ int main()
             stars = 2 * n  - i;  
         }  
  
-        for (int j = 0; j < stars; j++) 
+        for (int j = 0; j < stars; j++)  
         {    
             cout << "*";     
         }  
