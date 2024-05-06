@@ -7,7 +7,7 @@ int main()
     for (int i = 1; i <= 5; i++)
     {    
         for (int j = 0; j < i; j++)      
-        {  
+        {   
             int digit; 
             if ((i + j) % 2 != 0)
             {   
@@ -17,7 +17,7 @@ int main()
                 digit = 0;   
             cout << digit;    
         }   
-        cout << "\n";      
+        cout << "\n";
     }  
 
     return 0;  
