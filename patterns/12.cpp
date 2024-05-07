@@ -17,13 +17,13 @@ int main()
         }    
         for (int l = i; l >= 1; l--)
         { 
-            cout << l; 
+            cout << l;  
         }  
  
         cout << "\n";
         space -= 2;
     }
-
+  
     return 0;
 }
 
