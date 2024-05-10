@@ -25,7 +25,7 @@ int main()
     }
   
     return 0;
-}
+} 
 
 /* ANOTHER APPROACH
 #include <bits/stdc++.h>
