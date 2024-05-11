@@ -5,7 +5,7 @@ int main()
 { 
 
     for (int i = 1; i <= 5; i++)
-    {    
+    {     
         for (int j = 0; j < i; j++)      
         {   
             int digit; 
@@ -13,9 +13,9 @@ int main()
             {    
                 digit = 1;
             }   
-            else  
+            else   
                 digit = 0;   
-            cout << digit;    
+            cout << digit;     
         }   
         cout << "\n";  
     }  
