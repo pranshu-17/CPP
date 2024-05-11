@@ -11,7 +11,7 @@ int main()
             int digit; 
             if ((i + j) % 2 != 0)
             {    
-                digit = 1;
+                digit = 1; 
             }   
             else   
                 digit = 0;   
