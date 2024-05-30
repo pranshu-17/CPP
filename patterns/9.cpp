@@ -17,7 +17,7 @@ int main()
    
         cout << "\n";  
     }    
-    int i, j, k; s  
+    int i, j, k; s   
     for (i = 1; i <= 5; i++)  
     {
         for (j = 1; j <= i - 1; j++)
